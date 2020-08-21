@@ -245,6 +245,11 @@
           1,
           1,
           1,
+          1,
+          1,
+          1,
+          1,
+          1,
           null
         ]
       },
@@ -257,6 +262,131 @@
       "/Users/fieldstyler/turing/2mod/projects/adopt_dont_shop/app/helpers/welcome_helper.rb": {
         "lines": [
           1,
+          null
+        ]
+      },
+      "/Users/fieldstyler/turing/2mod/projects/adopt_dont_shop/spec/features/shelters/new_spec.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/fieldstyler/turing/2mod/projects/adopt_dont_shop/spec/features/shelters/show_spec.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/fieldstyler/turing/2mod/projects/adopt_dont_shop/spec/features/shelters/update_spec.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/fieldstyler/turing/2mod/projects/adopt_dont_shop/spec/helpers/welcome_helper_spec.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/fieldstyler/turing/2mod/projects/adopt_dont_shop/spec/requests/welcome_request_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
           null
         ]
       },
@@ -278,7 +408,35 @@
         "lines": [
           1,
           1,
+          4,
           null,
+          null,
+          1,
+          2,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          2,
+          2,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          0,
+          0,
+          0,
+          null,
+          null,
+          1,
+          1,
+          2,
           null,
           null
         ]
@@ -290,6 +448,6 @@
         ]
       }
     },
-    "timestamp": 1597884050
+    "timestamp": 1597978857
   }
 }
